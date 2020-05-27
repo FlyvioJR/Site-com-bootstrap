@@ -1,8 +1,26 @@
+body{
+    font: 20px arial, sans-serif ;
+}
+
 .navbar {
     background-color: #ffa100;
 }
 
 .quem-somos{
     background-color: aqua;
+}
+
+.parceiros{
+    background-color: burlywood;
+}
+
+.div-margem-padrao{
     padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.img-padrao {
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
 }
