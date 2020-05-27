@@ -2,6 +2,15 @@ body{
     font: 20px arial, sans-serif ;
 }
 
+h3{
+    padding: 60px 0 60px 0;
+}
+
+h4{
+    padding: 30px 0 30px 0;
+    margin-bottom: 0px;
+}
+
 .navbar {
     background-color: #ffa100;
 }
@@ -12,15 +21,24 @@ body{
 
 .parceiros{
     background-color: burlywood;
+    padding-bottom: 140px;
 }
 
-.div-margem-padrao{
-    padding-top: 50px;
-    padding-bottom: 50px;
+.serviços{
+    background-color: chartreuse;
+    padding-bottom: 40px;
+}   
+
+footer{
+    background-color: #ffa100;
+    padding: 15px 0 5px 0;    
 }
 
-.img-padrao {
-    width: 400px;
-    height: 400px;
-    margin-top: 50px;
+git{
+    margin-right: 10px;
+}
+
+#img-git{
+    text-decoration: unset;
+    text-decoration: none;
 }
